@@ -67,7 +67,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/aindriu80)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `aindriu80`, `README-Template`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template on the project to get started.  Just add in information about the project as it progresses. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at https://github.com/aindriu80](https://github.com/aindriu80)
+1. Get a free API Key at [API-KEY](https://github.com/aindriu80)
 2. Clone the repo
    ```sh
    git clone https://github.com/aindriu80/README-Template.git
@@ -209,7 +209,7 @@ Project Link: [https://github.com/aindriu80/README-Template](https://github.com/
 [license-shield]: https://img.shields.io/github/license/aindriu80/README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/aindriu80/README-Template/blob/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/aindriu-mac-giolla-eoin
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
